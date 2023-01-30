@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_personal_social_medias",
+  "info": {
+    "displayName": "Social Media",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "platform": {
+      "type": "enumeration",
+      "enum": [
+        "linkedin",
+        "github"
+      ]
+    }
+  }
+}
