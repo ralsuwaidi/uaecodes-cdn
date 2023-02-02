@@ -45,6 +45,15 @@
       "type": "component",
       "repeatable": true,
       "component": "personal.social-media"
+    },
+    "tier": {
+      "type": "enumeration",
+      "enum": [
+        "platinum",
+        "champion",
+        "gold",
+        "silver"
+      ]
     }
   }
 }
